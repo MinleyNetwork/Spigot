@@ -1,5 +1,5 @@
 # Spigot
-##Guía de uso
+## Guía de uso
 
 **·No quitar derechos de autor**
 
@@ -67,7 +67,7 @@ Ya tendremos nuestra librería importada:
 
 
 ## Copyright ©
-####Desarrollado por clonalejandro
+#### Desarrollado por clonalejandro
 
 
 
