@@ -18,7 +18,7 @@ En el escribimos lo siguiente:
     <repositories>
         <repository>
             <id>repo</id>
-            <url>https://clonalejandro.github.io/Spigot/</url>
+            <url>https://minleynetwork.github.io/Spigot/</url>
         </repository>
     </repositories>
 
